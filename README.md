@@ -1,6 +1,6 @@
 # Tips from Tin
 
-![Tins Face](http://tins.tips/images/tins-face.png)
+![Tins Face](images/tins-face.png)
 
 ## Tips
 
