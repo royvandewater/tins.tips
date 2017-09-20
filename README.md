@@ -10,3 +10,4 @@
 * 2 for 1 is always better than 1 for 1
 * That's a terrible picture - take it down.
 * It's 50 pictures. FREE! Why not?
+* Why spend your money when you can spend someone else's money?
